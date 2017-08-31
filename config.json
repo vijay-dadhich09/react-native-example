@@ -1,0 +1,15 @@
+// environment configure
+{
+  "development": {
+    "apiURL": "http://localhost:8081",
+    "codepushKey": "YOUR_KEY"
+  },
+  "staging": {
+    "apiURL": "https://myapi-staging.company.com",
+    "codepushKey": "YOUR_KEY"
+  },
+  "production": {
+    "apiURL": "https://myapi.company.com",
+    "codepushKey": "YOUR_KEY"
+  }
+}
